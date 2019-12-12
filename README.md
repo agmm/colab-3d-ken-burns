@@ -12,7 +12,9 @@ Before running this notebook make sure that your runtime type is 'Python 3 with 
 
 ## Credits
 - Implementation by: [Simon Niklaus](https://github.com/sniklaus/3d-ken-burns)
+- Implementation updates by: [Preston Allen](https://github.com/pressreset)
 - Google Colab notebook by: [Arnaldo Gabriel](https://github.com/agmm/colab-3d-ken-burns)
+- Google Colab notebook updates by: [Preston Allen](https://github.com/pressreset)
 
 ## More Info
 - Paper: https://arxiv.org/abs/1909.05483
