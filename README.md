@@ -5,7 +5,7 @@ A PyTorch based implementation of the techniques presented in the following pape
 ## Getting Started
 To get started simply click the following badge:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pressreset/colab-Multi-FPS-Full-Rez-3d-ken-Burns/blob/master/automatic-3d-ken-burns.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pressreset/colab-Multi-FPS-Full-Rez-3d-Ken-Burns/blob/master/automatic-3d-ken-burns.ipynb)
 
 ## Note
 Before running this notebook make sure that your runtime type is 'Python 3 with GPU acceleration'.
